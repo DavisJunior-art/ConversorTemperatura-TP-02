@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Conversor de Temperatura</string>
+    <string name="temperature_required">Digite uma temperatura válida</string>
+    <string name="conversion_result">%1$s °C = %2$s °F</string>
+</resources>
